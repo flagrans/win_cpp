@@ -8,8 +8,8 @@ int main()
 
     std::cout << "Привет мир!" << std::endl;
     std::string st;
-    std::cin >> st;
-    std::cout << st << std::endl;
+    //std::cin >> st;
+    //std::cout << st << std::endl;
 
     return 0;
 }
